@@ -1,4 +1,3 @@
-```markdown
 # Design System - Ignite Lab
 
 Design System criado desde o Figma até o React durante a 3ª edição do Ignite Lab - Rocketseat
@@ -19,4 +18,3 @@ Design System criado desde o Figma até o React durante a 3ª edição do Ignite
 ## Documentação
 
 Link de acesso: https://byjohnjava.github.io/ignite-lab-design-system/
-```
